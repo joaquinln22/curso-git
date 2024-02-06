@@ -1,2 +1,6 @@
-Ey que pasa?
-Todo bien, todo correcto?
+body{
+  background-color: blue;
+  font-weight:bold;
+  color:red;
+  font-size:18px;
+}
